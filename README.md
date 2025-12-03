@@ -46,4 +46,4 @@ Simulação interativa de uma página de produto inspirada no **Apple Watch**, d
 
 ## 📱 Demonstração
 
-👉 [Veja o projeto online]()
+👉 [Veja o projeto online](https://andre363-br765.github.io/apple-watch/)
